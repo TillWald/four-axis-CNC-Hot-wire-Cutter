@@ -46,8 +46,6 @@ Die Heizleistung $P$ des Drahtes muss dynamisch an die Schnittgeschwindigkeit $v
 
 $$P = k \cdot L \cdot v + P_{loss}$$
 
-> **Hinweis:** GitHub unterstützt LaTeX-Formeln nativ in Markdown-Dateien.
-
 ---
 
 # Prozess-Visualisierung
